@@ -1,7 +1,7 @@
 # NG Pensive Design System
-Hi there, NG Pensive Design System is open souce UI-KIT for Angular lovers based on Bootcatch Pensive Theme thanks :)
+NG Peace Design System is Coded, Written & Published By Bootcatch Based on Angular & Bootstrap 4.x ( Bootcatch-themes ).
 
-[![NPM](https://img.shields.io/npm/v/fa-react-icon.svg)](https://www.npmjs.com/package/fa-react-icon)  [![NPM](https://img.shields.io/npm/dt/fa-react-icon.svg)](https://www.npmjs.com/package/fa-react-icon) 
+[![NPM](https://img.shields.io/npm/v/ng-pensive-design-system.svg)](https://www.npmjs.com/package/ng-pensive-design-system)  [![NPM](https://img.shields.io/npm/dt/ng-pensive-design-system.svg)](https://www.npmjs.com/package/ng-pensive-design-system) 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Table of Contents
@@ -18,15 +18,13 @@ Hi there, NG Pensive Design System is open souce UI-KIT for Angular lovers based
 
 ## Quick Start
 ```
+// Install through NPM
+$ npm i ng-pensive-design-system --save
+
+OR
 //Clone the repo.
 
 $ git clone https://github.com/ajaymarathe/ng-pensive-design-system.git  
-
-//After cloning Hit following commands.
-
-$ npm install
-
-$ ng serve
 ```
 
 ## Usage
